@@ -40,7 +40,7 @@ This application is licensed under the MIT License
 
 ## Questions
 If you have any questions please contact me at the email below:  
-- [Email me](camhcodes11@gmail.com)
+- [Email me](mailto:camhcodes11@gmail.com)
 
 Checkout my other projects:  
 - [GitHub](https://github.com/CameronHeadlee?tab=repositories)
