@@ -2,10 +2,10 @@
 This is an application built to help you keep track of your day by taking notes. You have to option to create a new note, save a note, and delete a note.
 
 ## Table of Contents 
-- [Installation](##installation)  
-- [Usage](##usage)  
-- [Project Links](#####project-links)  
-- [Credits](##credits)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Project Links](#project-links)  
+- [Credits](#credits)  
 - [License](#license)  
 
 
@@ -22,8 +22,8 @@ After you have the node modules installed you can run `npm start` in your termin
 - [GitHub Repo](https://github.com/CameronHeadlee/Note-App)
 
 ##### Screenshots of application
-- [Image of Homepage]()
-- [Image of Notes page with saved notes]()
+- [Image of Homepage](https://github.com/CameronHeadlee/Note-App/blob/main/public/assets/img/note_home.png)  
+- [Image of Notes page with saved notes](https://github.com/CameronHeadlee/Note-App/blob/main/public/assets/img/note_notes_page.png)
 
 ## Credits 
 This application was created using: 
@@ -33,7 +33,7 @@ This application was created using:
 - [Heroku](https://id.heroku.com/login)
 
 ## License
-This application is licensed under the MIT License
+This application is licensed under the MIT License  
 ![GitHub](https://img.shields.io/github/license/CameronHeadlee/Note-App?logo=MIT)
 
 ## Questions
