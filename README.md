@@ -2,6 +2,11 @@
 This is an application built to help you keep track of your day by taking notes. You have to option to create a new note, save a note, and delete a note.
 
 ## Table of Contents 
+*[Installation](##installation)
+*[Usage](##usage)
+*[Project Links](#####project-links)
+*[Credits](##credits)
+*[License](##license)
 
 
 ## Installation 
@@ -13,19 +18,19 @@ After you have the node modules installed you can run `npm start` in your termin
 ### Links 
 
 ##### Project Links
-+[Heroku Deployment](https://note-appc.herokuapp.com/)
-+[GitHub Repo](https://github.com/CameronHeadlee/Note-App)
+*[Heroku Deployment](https://note-appc.herokuapp.com/)
+*[GitHub Repo](https://github.com/CameronHeadlee/Note-App)
 
 ##### Screenshots of application
-+[Image of Homepage]()
-+[Image of Notes page with saved notes]()
+*[Image of Homepage]()
+*[Image of Notes page with saved notes]()
 
 ## Credits 
 This application was created using: 
 
-+[Node.js](https://nodejs.org/en/)
-+[Express.js](https://expressjs.com/)
-+[Heroku](https://id.heroku.com/login)
+*[Node.js](https://nodejs.org/en/)
+*[Express.js](https://expressjs.com/)
+*[Heroku](https://id.heroku.com/login)
 
 ## License
 This application is licensed under the MIT License
@@ -33,10 +38,10 @@ This application is licensed under the MIT License
 
 ## Questions
 If you have any questions please contact me at the email below:
-+[Email me](camhcodes11@gmail.com)
+*[Email me](camhcodes11@gmail.com)
 
 Checkout my other projects:
-+[GitHub](https://github.com/CameronHeadlee?tab=repositories)
+*[GitHub](https://github.com/CameronHeadlee?tab=repositories)
 
 
 
