@@ -22,8 +22,8 @@ After you have the node modules installed you can run `npm start` in your termin
 - [GitHub Repo](https://github.com/CameronHeadlee/Note-App)
 
 ##### Screenshots of application
-- [Image of Homepage](https://github.com/CameronHeadlee/Note-App/blob/main/public/assets/img/note_home.png)  
-- [Image of Notes page with saved notes](https://github.com/CameronHeadlee/Note-App/blob/main/public/assets/img/note_notes_page.png)
+- ![Image of Homepage](/assets/img/note_home.png "Image of homepage")    
+- ![Image of Notes page with saved notes](/assets/img/note_notes_page.png "Image of saved notes")
 
 ## Credits 
 This application was created using: 
